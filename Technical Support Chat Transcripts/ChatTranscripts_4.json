@@ -1,0 +1,57 @@
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Pallavi in Adobe Sales. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Pallavi : Thank you for contacting Adobe Sales chat. My name is Pallavi. I will be happy to help you!
+Ray Price : I have Adobe Creative Cloud on a computer that no longer works. How do I install in on a new computer
+Pallavi : Sure
+Pallavi : We have a dedicated team for this. Let me connect you to the that team and they will assist you further.
+Pallavi : Shall I proceed?
+Ray Price : Yes
+CUSTOM_SYSTEM_MESSAGE : Pallavi has left the conversation.
+CUSTOM_SYSTEM_MESSAGE : Pallavi has left the conversation.
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Tameena, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Tameena : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Tameena : Thank you for your patience Ray. I see that you need assistance in installing Creative Cloud on your new computer. 
+
+ As you have reached out to me I will try my best to assist you with that today.
+
+I have checked your account and see that the email address through which you have contacted us today do not have an active subscription, hence could you please confirm an alternate email address?
+Ray Price : rprice@notesfornotes.org
+Tameena : Awesome! Thank you Ray. 
+
+ Could you please confirm which is the operating system that you are currently using that is Mac or Windows and also the version of it?
+Ray Price : MAC OS X El Capitan version 10.11.6
+Tameena : Great! Is it OK if I access your computer remotely to assist you with your issue? 
+If yes, please close your personal files and folders. Let me know when you're ready to start the remote session
+Ray Price : I'm ready
+Tameena : Awesome! Thank you Ray.
+
+https://screen.share.adobe.com/?ak=9918d3c7f8d22d4898a32da58e42cfd8
+
+1.Click or  Copy the link and open it in a new browser tab.
+2. Download, Save, and then Run the Bomgar setup on your machine.
+3. Agree to the License Agreement and Screen Recording.
+4. When the Bomgar window opens, click on "Allow" to start sharing.
+Tameena : Thank you. I am now able to access your computer. I request you to please stay connected while I install the Creative Cloud app on your computer now. 
+Tameena : In future if you wish to install the app from your end you can use the below mentioned link:
+
+https://helpx.adobe.com/in/download-install/kb/creative-cloud-desktop-app-download.html
+Tameena : I will go ahead and connect your chat to our concern team who will help you further with the photoshop and premium.
+CUSTOM_SYSTEM_MESSAGE : Tameena has left the conversation.
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Dhaval, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Dhaval : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Dhaval : Thanks for your patience, I'd be happy to help you in resolving your issue , could you please elaborate the issue you are facing as of now ?
+Ray Price : I need Adobe Premiere to be installed but it's saying it's not compatible with my system
+Dhaval : oh i see , may i know the version of MAC OS you have ? To check that please click on Apple icon> about this MAC. 
+Ray Price : OS X EL Capitan 10.11.6
+Dhaval : okay thanks , well that could be the reason of not compatibility as per the system requirements  latest version of CC apps like Premiere pro requires minimum MAC OS 10.15 or above and since its quit older version of MAC OS 10.11 its stating incompatible 
+Ray Price : Is there an older version that can be installed? The original system I have Premiere installed on is OS X Yosemite 10.10.5 and it works on that computer.
+Dhaval : In this case i could suggest either you can upgrade your MAC OS to minimum MAC OS 10.15 or above , or at least MAC OS 10.13 so we can provide you the direct download link for Premiere pro as on our server's end the last version which is direct download link available is for 10.13 ..
+
+Or as of now for the time being you can refer to the community forum link for downloading Premiere pro for MAC OS 10.11:-
+
+https://community.adobe.com/t5/premiere-pro-discussions/download-premiere-pro-12-0v/m-p/12318058
+Dhaval : you can refer to the above community link which consist of the link that redirects you to download Premiere pro 12  ( CC 2018)which is compatible with MAC OS 10.11 as per the link:- 
+
+https://community.adobe.com/t5/premiere-pro-discussions/premiere-pro-12-0/m-p/9481713
+Dhaval : Looks like you have stepped away. I will close this conversation for now. You are welcome to come back at any point and we will be happy to assist you.
+CUSTOM_SYSTEM_MESSAGE : Dhaval has left the conversation.

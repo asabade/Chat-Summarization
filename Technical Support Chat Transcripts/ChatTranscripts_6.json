@@ -1,0 +1,28 @@
+Wyatt Burnette : [customer connecting with agent - disregard]
+Wyatt Burnette : Do i need a serial number
+BOT : Hi. I am the Adobe Virtual Assistant. How can I help?
+BOT : You need help with a serial number. Is that right?
+Wyatt Burnette : No
+BOT : I'm still learning. Could you describe the issue differently or tell me your goal?
+Wyatt Burnette : to use animate
+BOT : To confirm, you need help using Animate or troubleshooting an issue. Is that right?
+Wyatt Burnette : Yes
+BOT : I want to make sure I understand clearly. Which of these categories best describes your issue?
+Wyatt Burnette : Something else
+BOT : Would you like to chat with an agent?
+Wyatt Burnette : Yes, chat with an agent
+BOT : Ok. I'll connect you to an agent who can pick up where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Anushri, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Anushri : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Wyatt Burnette : okay
+Wyatt Burnette : Is everything looking good
+Anushri : Thank you , I see you want to use animate ,you can use a trial for it through this link: https://creativecloud.adobe.com/apps/
+Wyatt Burnette : do i need to use a credit card
+Wyatt Burnette : hello?
+Anushri : No, that is not required 
+Wyatt Burnette : okay well im installing it right now, can i continue that or do i need to use the url?
+Anushri : Yes, you can install it and then let me know if it works 
+Wyatt Burnette : okay ill get back to you when animate is installed
+Anushri : Sure, I am right here, let me know if it works
+Anushri : is it downloaded now ?

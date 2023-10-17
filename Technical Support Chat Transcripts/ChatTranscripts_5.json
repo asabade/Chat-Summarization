@@ -1,0 +1,61 @@
+yasmeen nadeem : [customer connecting with agent - disregard]
+BOT : Hi. I'm the Adobe Customer Care Virtual Assistant. Would you like help with your download/install error?
+yasmeen nadeem : Yes
+BOT : You might find the help you need at https://helpx.adobe.com/creative-cloud/kb/troubleshoot-download-install-logs.html?sa_src=AVA_JC_Bot-Eng-error.code-SSWF10-CCI-Msg#error201
+BOT : If that doesn't help, you can search common download/install errors and solutions at adobe.com/go/error-codes
+BOT : Did that help?
+yasmeen nadeem : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+yasmeen nadeem : Chat with an agent
+BOT : Ok. Transferring you to an agent who can help. They'll be able to pick up our chat where we've left off.
+BOT : While you wait, please help your agent solve this issue quickly by installing and running the Creative Cloud Log Collector tool at adobe.com/go/logcollector
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to MEGHANA, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+MEGHANA : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+yasmeen nadeem : why it is stucking again and again
+MEGHANA : Thank you for your patience Yasmeen. How may I assist you today?
+MEGHANA : May I know which application are you referring to?
+yasmeen nadeem : adobe xd
+yasmeen nadeem : on installation
+MEGHANA : Please allow me a moment I will connect you to the dedicated team.
+CUSTOM_SYSTEM_MESSAGE : MEGHANA has left the conversation.
+CUSTOM_SYSTEM_MESSAGE : MEGHANA has left the conversation.
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Saurav, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Saurav : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Saurav : Hey Yasmeen,
+I can see you are facing issue with Xd installation.
+
+ Are you working on Windows or Mac?
+yasmeen nadeem : windows
+Saurav : Alright,
+do you get any error while installing XD?
+yasmeen nadeem : how i can share here ss?
+Saurav : you can email it to us
+
+please send it on - websupport@adobe.com
+
+mention my name in the subject.
+yasmeen nadeem : ok
+yasmeen nadeem : yes please
+Saurav : did you sent it Yameen?
+yasmeen nadeem : what?
+Saurav : Did you sent the screenshot via email?
+yasmeen nadeem : no at this time
+Saurav : You can also tell me if you get any specific error or any error code while installing XD.?
+yasmeen nadeem : sure
+Saurav : https://helpx.adobe.com/in/download-install/kb/creative-cloud-desktop-app-download.html
+
+please try to install creative cloud app from the above link.
+Saurav : let me know in case of any difficulty
+yasmeen nadeem : sure
+yasmeen nadeem : thank you
+Saurav : Did you able to install it?
+yasmeen nadeem : just downloading
+Saurav : Yasmeen,
+did you able to download creative cloud and XD?
+yasmeen nadeem : let me check my brower
+yasmeen nadeem : 303 mb file
+yasmeen nadeem : and i have download 290
+yasmeen nadeem : mb
+Saurav : Please extract the file and install

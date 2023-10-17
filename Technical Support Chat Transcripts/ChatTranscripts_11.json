@@ -1,0 +1,44 @@
+Kris Liebold : [customer connecting with agent - disregard]
+Kris Liebold : Where is the Captivate application? That is why I got Adobe Creative Cloud.
+BOT : Hi. I am the Adobe Virtual Assistant. How can I help?
+BOT : You need help using Captivate or troubleshooting an issue. Is that right?
+Kris Liebold : Yes
+BOT : I want to make sure I understand clearly. Which of these most closely matches your app?
+Kris Liebold : Something else
+BOT : I want to make sure I understand clearly. Which of these categories best describes your issue?
+Kris Liebold : Where to download Adobe Captivate [Captivate]
+BOT : You might find the help you need at https://community.adobe.com/t5/download-install-discussions/where-to-download-adobe-captivate/td-p/7972995
+BOT : Did that help?
+Kris Liebold : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+Kris Liebold : Chat with an agent
+BOT : Ok. Transferring you to an agent who can help. They'll be able to pick up our chat where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Kamal, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Kamal : Hello Kris, I'd be happy to help you today, let me first pull up your account information and access your details.
+Kris Liebold : Hi Kami. I just downloaded CC so I could get Captivate. But I don't see it.
+Kamal : As I can check you need assistance with captivate, I would like to inform you that creative cloud and captivate both comes under different line of adobe products.
+
+You need to download/install captivate separately. Please use the below link for downloading Adobe Captivate 2019.
+
+https://www.adobe.com/products/captivate/vipdownload.html
+Kris Liebold : Did I even need to order/install CC?
+Kamal : No, for captivate you do not need creative cloud app or subscription.
+Kris Liebold : How do I order and download the latest Captivate version?
+Kamal : You can download the latest version of captivate with the link I have shared above.
+
+And under your account I can see that you have already purchased the subscription for adobe captivate.
+Kris Liebold : That might have been on another computer. How do I access it on a new computer?
+Kamal : First you need to download/install adobe captivate. Which you can do with the link I have shared, once captivate is installeed you just need to sign in with your adobe login details in order to activate it on new computer.
+Kris Liebold : Thank you Kami. Can I cancel my CC subscription then?
+Kamal : Under your current account I do not see any active subcription for creative cloud. If you have purchased it under any other account and want to cancel it, for that I can get you connected to our cancellation team.
+Kris Liebold : I just purchased it about an hour ago because I didn't know I had a license for Captivate and thought I had to go through CC.
+Kamal : Did you make the purchase for CC under a different account?
+
+As under the current account I can only see one active subscription and that is for Adobe Captivate which was purchased today only.
+Kris Liebold : OK then.
+Kamal : Is there anything else I can help you with today?
+Kris Liebold : I think I'm good. Thanks Kami.
+Kamal : Happy to help. You may receive an email with a survey link. Please take a moment to rate your experience and help us improve. Thanks!
+CUSTOM_SYSTEM_MESSAGE : Kamal has left the conversation.

@@ -1,0 +1,64 @@
+carine leriche : [customer connecting with agent - disregard]
+carine leriche : Hi I have photoshop problems
+BOT : Hi. I am the Adobe Virtual Assistant. How can I help?
+BOT : You need help using Photoshop or troubleshooting an issue. Is that right?
+carine leriche : Yes
+BOT : You might find the help you need at https://helpx.adobe.com/support/photoshop.html
+BOT : Did that help?
+carine leriche : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+carine leriche : Chat with an agent
+BOT : Ok. Transferring you to an agent who can help. They'll be able to pick up our chat where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Amandeep, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Amandeep : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+carine leriche : ok
+Amandeep : Carine let me help you in resolving the Photoshop issue. May i know what exactly is happening?
+carine leriche : Hi, I wanted to reopen my PS and that wasn't possible .... I tried several times. Now I ve uninstalled PS to reinstall and tried to uninstall CC , but I'm lost in translation here
+Amandeep : I am here to help you. May i know if you are getting any kind of error message?
+carine leriche : I tried to reinstall but it s says it s impossible because it s already busy , but can t find anything
+carine leriche : I can't even open nothing
+carine leriche : so I guess I uninstalled everything succesfully
+carine leriche : but can't reinstall
+Amandeep : May i know if you are getting any kind of error message
+carine leriche : can t load updates it says
+carine leriche : when I click on reopen for desktop (creative cloud) - nothing happens
+Amandeep : May i know if you are using a mac machine or windows
+carine leriche : can I send you a screenshot?  I have a screen that says that PS is getting installed, but it looks funny , like nothing happens
+carine leriche : macbook pro M1
+Amandeep : Please email that to Photosup@adobe.com
+carine leriche : ok
+carine leriche : just did
+carine leriche : but euh do you understand? ;)
+Amandeep : I am still waiting for your email.
+carine leriche : that s weird, I check
+carine leriche : it s in my sent items .. title mail : PS
+carine leriche : what I see is a desktopscreen (Apple) in grey, with text at the right: Photoshop wordt geïnstalleerd door de Creative Cloud desktop-app.
+
+
+(Opmerking: Deze app installeert alle creatieve apps en services van Adobe en werkt ze bij.)
+Help weergeven
+carine leriche : title above: Photoshop is being installed
+carine leriche : all light grey .. and the circle of progress doesn't move
+carine leriche : that circle is on 'the screen' of the desktop... connected to the logo of CC
+Amandeep : Please click on cloud icon and check if there is any progress
+carine leriche : nothing happens at all
+carine leriche : neither when I click on the icon in my dock
+Amandeep : Please sign out from creative cloud app, close all adobe processes from activity monitor, sign back and try reinstalling photoshop
+carine leriche : ok, did that before contacting you, but will try that again ...
+carine leriche : doesn t seem to work
+Amandeep : Is it OK if I access your computer remotely to assist you with your issue? If yes, please close your personal files and folders. Let me know when you're ready to start the remote session.
+carine leriche : yes, hold on , but to many things I need to keep open .. hold on.. I keep them in a separate tab
+carine leriche : ok
+carine leriche : what do I do?
+Amandeep : https://screen.share.adobe.com/?ak=0ddce72303df42a6e76e08d1849865d5
+Amandeep : To allow mouse access please follow these steps:
+1. Click on 'Allow' in the Bomgar chat window
+2. Click on Open System preferences.
+3. Within System Preferences, unlock the padlock and check Remote support customer client
+4. It will ask you to 'Quit now' or 'Later' - click on 'Quit Now'
+5. Go to Accessibility, unlock the padlock and check Remote support customer client, and lock
+Amandeep : Please let me know if that works for you or not
+carine leriche : should work now, no?
+carine leriche : I deleted everything to start over again

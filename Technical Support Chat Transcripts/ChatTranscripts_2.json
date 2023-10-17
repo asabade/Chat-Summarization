@@ -1,0 +1,44 @@
+ZACHARIAS MOULINOS : [customer connecting with agent - disregard]
+ZACHARIAS MOULINOS : hi there
+BOT : Hi. I am the Adobe Virtual Assistant. How can I help?
+BOT : Hello. How can I help you?
+ZACHARIAS MOULINOS : i want to download a previous version of indesign, specially ver. 15.1.3. but at the old version tab i only see the ver 16
+BOT : You need help downloading your apps. Is that right?
+ZACHARIAS MOULINOS : Yes
+BOT : Go to the Apps page and click Try or Install for the app you want at adobe.com/go/download-apps
+BOT : You'll find all available versions in your Creative Cloud Desktop app. Learn how at adobe.com/go/download-versions
+BOT : For apps registered with a serial number, go to your Products page and click Download at adobe.com/go/download-products
+BOT : (You may need to minimize or move the chat window to see all your apps.)
+BOT : Did that help?
+ZACHARIAS MOULINOS : No
+BOT : Other customers with similar questions have found the help they needed with the following solutions.
+ZACHARIAS MOULINOS : HOW TO DOWNLOAD PREVIOUS VERSIONS OF INDESIGN?
+BOT : You might find the help you need at https://community.adobe.com/t5/indesign-discussions/how-to-download-previous-versions-of-indesign/td-p/11013010
+BOT : Did that help?
+ZACHARIAS MOULINOS : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+ZACHARIAS MOULINOS : Chat with an agent
+BOT : Ok. Transferring you to an agent who can help. They'll be able to pick up our chat where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Swyam, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Swyam : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Swyam : Thanks for your patience, I have checked the chat history and would be happy to help with the old version of InDesign app. Are you working on Windows or Mac?
+ZACHARIAS MOULINOS : on window
+ZACHARIAS MOULINOS : windows
+Swyam : Thanks, I can help with the download link of the base version i.e. 15.0, would that work for you?
+ZACHARIAS MOULINOS : yep
+Swyam : Great, give me a moment while I get the download link for you.
+Swyam : Please click on link provided below to download the installer file. 
+Once the download is complete, please double-click the downloaded installer file to install the application. 
+The link will be valid for 24 hours, please make sure you download the file within 24 hours. https://ccmdls.adobe.com/AdobeESD/IDSN/15.0/win64/0f89ac0e-2e67-4cc3-ac26-0264073f6987/InDesign_15_LS20_Win64.zip?token=exp=1660040194~hmac=555ad7ce1a80b7c8579ffa2c2ca5e3b272683b8fc39d51b2738ef59395dfc835
+
+If you need more help installing the app, go to https://helpx.adobe.com/download-install.html
+ZACHARIAS MOULINOS : can i have both ver 15 and 17 on my pc?
+Swyam : Yes, you can keep both the versions.
+ZACHARIAS MOULINOS : thnx a lot
+Swyam : Let me know if you need more help in installing the version 15.0.
+ZACHARIAS MOULINOS : ok i am fine
+ZACHARIAS MOULINOS : have a good day
+Swyam : Happy to help. You may receive an email with a survey link. Please take a moment to rate your experience and help us improve. Thanks!
+Swyam : Thanks, you too have a great day!

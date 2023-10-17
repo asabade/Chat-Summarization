@@ -1,0 +1,30 @@
+TP Training :	email-Tpjpr9@adobe.com
+TP Training :	CUSTOM_SYSTEM_MESSAGE_You are now connected to Aprajita , who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Aprajita :	Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+TP Training :	Hi Aprajita 
+TP Training :	I want to know which subscription is active on my account
+Aprajita :	Sure Tp Train, may i know u want to know Subscription details for your own account or tpjpr9@adobe.com?
+TP Training :	for tpjpr9@adobe.com
+Aprajita :	thankyou for confirming TP Training, as i can check on muy system there are 3 active plans on your account\n\n1-photoshop\n2- Illustrator\n3- Premiere Pro plan\nwhich plan you want to change
+TP Training :	I dont want to change anything
+TP Training :	please tell me my billing dates for all active subscriptions
+Aprajita :	i apologize for that tp train\ni will help you with the billing dates of all 3 active subscriptions\nIllustrator-02-09-20222\nphotoshop- 02.09.2022\npremiere pro- 02.09.2022
+TP Training :	okay
+TP Training :	can you help me updating my card
+Aprajita :	sure TP Training, i will help you in updating your card, are you in front oif your system?
+TP Training :	yes I am
+Aprajita :	ok, these are some steps by which you can update your card.\n1- Sign in at https://account.adobe.com/plans.\n2- Select Edit billing and payment.\n3- Edit billing and payment details\n4- Select either Add new or Edit.\n5- Edit billing and payment details\n6- Enter your card details, and then select Save.\nplease let me know if you face any issue with these steps.
+TP Training :	okay...let me check
+TP Training :	yes.. I was able to update the card
+TP Training :	But it is not letting me use the subscriptions
+TP Training :	it says something about activation limit reached
+Aprajita :	ok TP Training i request you to please sign out from the last device then sign in on the other device then you will not facing any issue with that
+TP Training :	ok
+TP Training :	let me see
+TP Training :	it is a little confusing
+Aprajita :	these steps will help you in future aswell.\n1- You must be connected to the Internet for these steps to work.\n\n2- Connect to the Internet and launch the app on one of your other computers.\n\n3- Choose Help > Sign Out.\n\n4- Try activating the app on the new computer again.\n\n5- On the old computer, connect to the Internet, and then launch the app.\n\n6- Choose Help > Deactivate.\n\n7- Choose Deactivate\n8- On the new computer, connect to the Internet, and then launch the app.\n\n9- Choose Help > Activate. For more information on Activation, see Activate and deactivate products.
+TP Training :	okay
+TP Training :	perfect
+TP Training :	it works
+TP Training :	thanks
+Aprajita :	Happy to help. You may receive an email with a survey link. Please take a moment to rate your experience and help us improve. Thanks!

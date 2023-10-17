@@ -1,0 +1,98 @@
+Alex Mason : [customer connecting with agent - disregard]
+BOT : Hi. I am the Adobe Virtual Assistant. How can I help?
+Alex Mason : Adobe Premier Pro is taking a very long time to download. It is stuck on 22%
+BOT : I want to make sure I understand clearly. Which of these categories best describes your issue?
+Alex Mason : Get help to download, install, or upgrade
+BOT : I want to make sure I understand clearly. Which of these most closely matches your app?
+Alex Mason : Premiere Pro
+BOT : You can find a tool to help you at adobe.com/go/install-frozen
+BOT : Other customers with similar questions have found the help they needed with the following solutions.
+BOT : Did that help?
+Alex Mason : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+Alex Mason : Chat with an agent
+BOT : Ok. Transferring you to an agent who can help. They'll be able to pick up our chat where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Prateek, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Prateek : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+Alex Mason : Hi Prateek
+
+This morning I decided to sign up to and install Adobe Premier Pro however it seems to be taking a very long time to download and install the Creative Cloud Desktop App to manage my apps.  The installing progress has been stuck on 22% for about 25-30 minutes.
+Prateek : Okay. Thank you for the information. 
+Prateek : Are you working on Windows or Mac?
+Alex Mason : Mac
+Prateek : Thank you. Please help me with the version of your Mac OS. 
+Alex Mason : macOS Monterey version 12.4
+Prateek : Thank you. Let me share an offline link for Premiere Pro with you. Please try to download the installation file and then install Premiere Pro from there and check. 
+Alex Mason : Okay
+Prateek : https://ccmdls.adobe.com/AdobeESD/PPRO/22.0/macuniversal/17b4599f-a2a9-4ce1-a1d0-1ee13eb0febd/AdobePremierePro22.0_169AllTrial.dmg?token=exp=1659433216~hmac=b3bcf94e549c3bbb7e6c2f3deac9f28239a072ca3bbb5d7a9832918e23b2a52a
+Premiere Pro v22.0 
+Alex Mason : Thank you
+Prateek : You are welcome. 
+Alex Mason : Quick question, I am downloading Adobe Premier pro.  Does this mean there is a separate version called Adobe Premier?
+Alex Mason : The name ‘Premier Pro’ implies to me there this is an additional and more intermediate piece of software
+Alex Mason : Or is that just the name of it?
+Prateek : No, they both are the same. We have Premiere Pro and Premiere Rush as two distinct video editing applications. 
+Premiere and Premiere Pro are  exactly the same applications. 
+Alex Mason : I gotcha
+Alex Mason : Thanks for clarifying
+Alex Mason : This is my first time using Adobe Premier software.
+Prateek : You are most welcome, Alex. I hope you will enjoy editing your videos in Premiere Pro. 
+Alex Mason : Thank you.
+Alex Mason : Thanks for your help
+Prateek : Happy to help! 
+Alex Mason : :)
+Prateek : Please let me know once the installation is completed, so that I can close the case on a happy note. :) 
+Alex Mason : Will do. 2.2gb  of 3.4gb had downloaded
+Prateek : Okay. Thank you for keeping me posted. 
+Alex Mason : Okay so the file has downloaded
+Alex Mason : I now have options
+Prateek : Okay. Great. Now install Premiere Pro. 
+Alex Mason : There’s folders for common, products, resource and then a file called Install which I assume is the one to select
+Prateek : Yes. That is correct. 
+Alex Mason : Ah it says the installation failed as there is another installation taking place.  I assume it is referring to the online version
+Prateek : Yes. Please stop the other one and then try again.
+Alex Mason : Okay, this may close our chat as it’s all inthe same window
+Alex Mason : I am sure I can take it from here.
+Prateek : Okay. I will keep your case in open and will follow up with you on email. Please reply to us if your issue has been resolved. 
+Prateek : Have a nice day. 
+Alex Mason : Thanks.  I am struggling to close the online install
+Alex Mason : It just says ‘Cleaning up the installer…’ with a loading circle rotating repeatedly for the last 5 mins
+Prateek : Okay. Can you try to force close the creative cloud desktop app?
+Alex Mason : I just restarted my computer
+Alex Mason : I’m a little lost
+Prateek : Great! No worries. I am here to help.
+Alex Mason : It’s now reopened this window and the online install is taking place
+Prateek : Now, try to install Premiere Pro again from the installation file that you downloaded. 
+Prateek : Okay. Can you please force close Creative cloud online install?
+Alex Mason : Anything I click on is opening the creative cloud online install
+Alex Mason : I dont even see the file I downloaded through the link you sent to me in my downloads folder anymore
+Prateek : Okay. Please uninstall Creative cloud from your mac and then try again. 
+Alex Mason : The online Creative Cloud installation has actually passed the 22% progress point and is now on 40%
+Alex Mason : Is it worth letting it run?
+Alex Mason : Last time it was stuck at 22% which prompted me to contact you.  It is now at 55%
+Alex Mason : 60%
+Prateek : That's good news. :D 
+Alex Mason : :)
+Prateek : Please let me know once it is completed.
+Alex Mason : Ok
+Alex Mason : 85%
+Prateek : 15 more to go. 
+Alex Mason : Done.  Now says 'Loading apps'
+Alex Mason : It looks like an app store just for Adobe products.  I can see one of the options premier pro says 'installing' underneath it and its at 25%
+Prateek : It must be instalting Speech to Text languages. 
+Prateek : installing* 
+Alex Mason : 65%
+Alex Mason : 81%
+Prateek : Okay. Thank you for keeping me posted, Alex. 
+Alex Mason : Ok progress complete
+Prateek : Wonderful! Now, see if you are able to launch the application. 
+Alex Mason : It seems to have successfully installed
+Prateek : That's amazing. Is there anything else I can help you with?
+Alex Mason : I think for now I am good, next step is to play around with and learn how to edit using Adobe Premier Pro
+Prateek : https://helpx.adobe.com/in/support/premiere-pro.html
+Here are our tutorials video, they will help you. 
+Prateek : Happy to help. You may receive an email with a survey link. Please take a moment to rate your experience and help us improve. Thanks!
+Prateek : Have a lovely day, Alex. 
+CUSTOM_SYSTEM_MESSAGE : Prateek has left the conversation.

@@ -1,0 +1,59 @@
+Gayle Meincken : [customer connecting with agent - disregard]
+BOT : Hi, I'm the Adobe Virtual Assistant. How can I help you?
+Gayle Meincken : Hello
+BOT : Hello. How can I help you?
+Gayle Meincken : I have an Adobe Captivate licence through work.
+Gayle Meincken : My Work have installed Adobe Captivate locally on my WorkLaptop.
+BOT : I want to make sure I understand clearly. Which of these categories best describes your issue?
+BOT : You need help using Captivate or troubleshooting an issue. Is that right?
+Gayle Meincken : Yes
+BOT : I want to make sure I understand clearly. Which of these categories best describes your issue?
+Gayle Meincken : Installing Adobe Captivate
+BOT : You might find the help you need at https://helpx.adobe.com/captivate/kb/installing-adobe-captivate.html
+BOT : Did that help?
+Gayle Meincken : No
+BOT : Let's find another way to get you the help you need.
+BOT : How would you like to proceed?
+Gayle Meincken : Chat with an agent
+BOT : Ok. I'll connect you to an agent who can pick up where we've left off.
+CUSTOM_SYSTEM_MESSAGE : Your estimated wait time is currently less than one minute
+CUSTOM_SYSTEM_MESSAGE : You are now connected to Tulika, who is reviewing your account. If you need to share sensitive information, such as credit card number, please wait for your agent to give you steps to share it securely.
+Tulika : Hello, I'd be happy to help you today, let me first pull up your account information and access your details.
+
+Gayle Meincken : Hello Tulika
+Tulika : Do you need assistance in installing Captivate?
+Gayle Meincken : Yes
+Gayle Meincken : I have a Work laptop, and a work purchased licence for Adobe Captivate.
+Tulika : Have you downloaded it already or yet to download?
+Gayle Meincken : My work installed the Captivate app locally on my work laptop.
+Tulika : Ok, are you working on Mac or Windows?
+Gayle Meincken : But, I have been given a new laptop to test, it is smaller, and I want to get Captivate installed on the other device and see if it works ok?  (Because it is a huge app and I have had problems running it before).
+
+I use Windows on a Surface device.
+Gayle Meincken : My IT Dept have to install it because it needs to be done by an administrator. The issue they have is not having the Installer EXE file.
+Gayle Meincken : Can you help?
+Tulika : Sure, let me help you with the steps and the download link.
+Tulika : Please open the below link on the Web browser. Then click on Download for Window - 64
+https://www.adobe.com/products/captivate/vipdownload.html
+This will start downloading a Zip file
+Once the Zip file is downloaded successfully > Go to the download location > Select the Zip file > Right Click and extract the Zip file
+Once the Zip file is extracted successfully > Open the unzipped folder > Open Adobe Captivate 2019 folder > Double click on Setup.exe to start the installation.
+
+Gayle Meincken : Are ou able to download the link to my email address connected with the licence?
+Gayle Meincken : gayle.meincken
+Gayle Meincken : @bclplaw.com
+Tulika : I'm able to see the license under your account. 
+Gayle Meincken : or email me the link to download?
+Tulika : Let me email you the download link and steps.
+Gayle Meincken : That would be phenominal.  Can I ask if I can run the app on two machines, not at the same time, but be signed in at one time on one machine, then test it on the other machine?  I don't want to relinquish my old laptop until I am satisfied I can use it on the smaller laptop.  And it is a real headache having to get IT involved with the install each time.
+Tulika : I completely understand that. Yes you can use the app on 2 machines until you are totally satisfied with the new machine.
+Tulika : I've already shared the steps and link via email.
+Gayle Meincken : This is music to my ears.  Thank you very much.
+Gayle Meincken : I will forward the email to our IT Team now.  Thank you so very much.
+Tulika : I'll follow up with you to know the status of installation.
+Tulika : I hope that helps. Thanks for contacting Adobe!
+
+Gayle Meincken : Thank you Tulika :-)
+Tulika : You are welcome. 
+Tulika : Have a great day!
+CUSTOM_SYSTEM_MESSAGE : Tulika has left the conversation.
